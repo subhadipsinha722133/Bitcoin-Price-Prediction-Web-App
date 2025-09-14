@@ -1,6 +1,9 @@
 ## Bitcoin Price Prediction Web App 📈🤖
 A Streamlit-based web application for predicting Bitcoin price movements using machine learning models! 🚀
 
+
+## 📺Live Demo
+🔗[Demo Link](https://bitcoin-price-prediction-web-app-d5e5qkmwhttvgncawajxhl.streamlit.app/)
 ## ✨ Features
 📊 Interactive Data Visualization: Dynamic charts showing Bitcoin price trends, distributions, and correlations
 
@@ -106,5 +109,6 @@ Made with ❤️ and Python 🐍
 
 
 Feel free to contribute by submitting issues or pull requests! 🤝
+
 
 
