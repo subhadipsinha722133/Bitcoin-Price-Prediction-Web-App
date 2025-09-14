@@ -85,13 +85,14 @@ Quarter-end indicator
 Technical indicators (when available)
 
 ## 📁 Project Structure
-text
-bitcoin-price-prediction/
-├── bitcoin_prediction_app.py  # 🎯 Main application file
-├── requirements.txt           # 📦 Python dependencies
-├── sample_data/              # 💾 Sample datasets (optional)
-├── assets/                   # 🎨 Images and icons (optional)
-└── README.md                 # 📖 This file
+text<br>
+bitcoin-price-prediction/<br>
+├── bitcoin_prediction_app.py  # 🎯 Main application file<br>
+├── requirements.txt           # 📦 Python dependencies<br>
+├── sample_data/              # 💾 Sample datasets (optional)<br>
+├── assets/                   # 🎨 Images and icons (optional)<br>
+└── README.md                 # 📖 This file<br> 
+
 ## 📦 Dependencies
 numpy==1.26.4
 
@@ -116,5 +117,6 @@ Cryptocurrency investments carry significant risk, and predictions made by this 
 This project is open source and available under the MIT License.
 
 Made with ❤️ and Python 🐍
+
 
 Feel free to contribute by submitting issues or pull requests! 🤝
