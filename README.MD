@@ -87,9 +87,9 @@ Technical indicators (when available)
 ## 📁 Project Structure
 text<br>
 bitcoin-price-prediction/<br>
-├── bitcoin_prediction_app.py  # 🎯 Main application file<br>
+├── app.py  # 🎯 Main application file<br>
 ├── requirements.txt           # 📦 Python dependencies<br>
-├── sample_data/              # 💾 Sample datasets (optional)<br>
+├── bitcoin.csv/              # 💾 Sample datasets (optional)<br>
 ├── assets/                   # 🎨 Images and icons (optional)<br>
 └── README.md                 # 📖 This file<br> 
 
@@ -120,3 +120,4 @@ Made with ❤️ and Python 🐍
 
 
 Feel free to contribute by submitting issues or pull requests! 🤝
+
