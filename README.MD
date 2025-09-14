@@ -93,20 +93,6 @@ bitcoin-price-prediction/<br>
 ├── assets/                   # 🎨 Images and icons (optional)<br>
 └── README.md                 # 📖 This file<br> 
 
-## 📦 Dependencies
-numpy==1.26.4
-
-pandas==2.2.3
-
-matplotlib==3.9.2
-
-seaborn==0.13.2
-
-streamlit==1.38.0
-
-scikit-learn==1.5.1
-
-xgboost==2.1.1
 
 ## ⚠️ Disclaimer
 🚨 This application is for educational purposes only! 🚨
@@ -120,4 +106,5 @@ Made with ❤️ and Python 🐍
 
 
 Feel free to contribute by submitting issues or pull requests! 🤝
+
 
